@@ -1,0 +1,7 @@
+spring:
+  main:
+    banner-mode: off
+
+springdoc:
+  swagger-ui:
+    url: /customer.yml
